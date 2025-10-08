@@ -9,8 +9,8 @@ export const router = createBrowserRouter([
     path: "/",
     Component: Root,
     children: [
-      { index: true, path: "/", loader: ()=> fetch("TrendingApps.json"), Component: Home },
-      { path: "apps", Component: Apps },
+      { index: true, path: "/", loader: ()=> fetch("/TrendingApps.json"), Component: Home },
+      { path: "apps", loader: ()=> fetch("/AllApps.json"), Component: Apps },
       { path: "installation", Component: Installation },
     ],
   },

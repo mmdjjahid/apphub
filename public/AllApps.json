@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://play-lh.googleusercontent.com/_pZJxiFdWvzErmPqdDSK4_sEssd_tW2y7iias3NcS4VfDXF28Jd1AqrUZnNMGtm48w",
+    "title": "Chatify",
+    "companyName": "SkyTech Labs",
+    "description": "Chatify represents the pinnacle of modern messaging technology, offering an unparalleled real-time communication experience that prioritizes both speed and security. Built with cutting-edge end-to-end encryption protocols, Chatify ensures that every message, call, and file shared remains completely private and accessible only to intended recipients. The platform supports dynamic group chats accommodating up to 500 participants with advanced moderation tools, role-based permissions, and seamless media sharing capabilities including high-resolution photos, videos, and documents. Our sleek dark mode isn't just an aesthetic choice—it's engineered with advanced eye-comfort technology that reduces blue light emission while maintaining vibrant color accuracy. The revolutionary cloud sync architecture allows for instantaneous synchronization across unlimited devices, maintaining message history, preferences, and security settings consistently. Advanced features include self-destructing messages, read receipts customization, typing indicators, and sophisticated search functionality that indexes even media content. Chatify's AI-powered smart replies and conversation organization tools help you manage important communications efficiently while maintaining the human touch in every interaction.",
+    "size": 45.2,
+    "reviews": 5234,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 1470 },
+      { "name": "5 star", "count": 2674 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://play-lh.googleusercontent.com/blZS6cfN9O64_U1J_oJJoabDnrdaMCMWGmgCmQ89Ef_5U29QrRjCQnjxsBIUmiMGcA=w240-h480-rw",
+    "title": "FitPulse",
+    "companyName": "WellnessHub",
+    "description": "FitPulse transcends traditional fitness tracking by offering a comprehensive health ecosystem that adapts to your unique physiology and lifestyle goals. Our advanced biometric monitoring system integrates seamlessly with over 200 wearable devices, providing real-time heart rate variability analysis, blood oxygen saturation tracking, and sophisticated sleep stage monitoring that goes far beyond basic step counting. The platform features an extensive library of over 5,000 guided workout videos spanning yoga, high-intensity interval training, strength conditioning, and rehabilitation exercises—all curated by certified fitness experts and physical therapists. Our AI-driven nutrition coach analyzes your dietary patterns and provides personalized meal recommendations based on your fitness objectives, food preferences, and any dietary restrictions. The smart reminder system employs behavioral psychology principles to maintain motivation through milestone celebrations, social challenges, and progressive goal setting that evolves with your fitness journey. Advanced analytics provide deep insights into your performance trends, recovery patterns, and overall health progression with actionable recommendations for optimization. The community features connect you with like-minded individuals, certified trainers, and nutritionists for support, accountability, and expert guidance throughout your wellness transformation.",
+    "size": 68.5,
+    "reviews": 8190,
+    "ratingAvg": 4.4,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4170 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://play-lh.googleusercontent.com/HyoOOgrqj96GEbf4bo0EiuNyKAlDGG7prju2pgxvYI7OwtAdeIknMy9PJ1JymK-XmzQ=w240-h480-rw",
+    "title": "SnapNote",
+    "companyName": "ByteSmith",
+    "description": "SnapNote revolutionizes digital note-taking by combining state-of-the-art optical character recognition with intelligent organization systems that transform physical notes into searchable, editable digital knowledge bases. Our advanced OCR engine achieves 99.2% accuracy across 48 languages and can decipher even the most challenging handwriting styles, mathematical equations, and technical diagrams with remarkable precision. The platform's organizational architecture allows for infinite nesting of notebooks, smart tagging using natural language processing, and bidirectional linking that reveals unexpected connections between your ideas. The powerful search functionality extends beyond text to recognize objects in images, extract text from screenshots, and even identify specific concepts within your audio recordings. Collaboration features enable real-time co-editing with version history tracking, comment threads, and permission-based sharing that maintains security while facilitating teamwork. Our template marketplace offers professionally designed layouts for academic research, business meetings, creative projects, and scientific documentation that can be customized to your specific needs. The cross-platform synchronization ensures instantaneous updates across all your devices while maintaining offline accessibility and automatic conflict resolution. Advanced export options support multiple formats including PDF, Word, Markdown, and HTML while preserving your original formatting and media elements intact.",
+    "size": 39.8,
+    "reviews": 3412,
+    "ratingAvg": 4.7,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1642 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://play-lh.googleusercontent.com/Q489WjobyS5tWlLDhIApost9qINmfxq8Va-MvGgSLNXb2cHNiQyoG3-0yyjqRtHqAkM",
+    "title": "TuneBox",
+    "companyName": "NovaSound Studios",
+    "description": "TuneBox elevates music streaming to an art form with an unparalleled catalog of over 100 million tracks, lossless audio quality options, and intelligent discovery systems that understand your musical soul. Our sophisticated audio engine delivers crystal-clear streaming at up to 24-bit/192kHz resolution, providing studio-quality sound reproduction that reveals nuances you've never heard before. The personalized playlist ecosystem includes Daily Mixes that adapt to your mood, Discovery Weekly that introduces emerging artists aligned with your taste, and Release Radar that ensures you never miss new music from your favorite creators. The offline listening experience goes beyond simple downloads with smart caching that predicts your listening patterns and pre-loads content before you even realize you want it. Our AI-curated recommendation system analyzes not just what you play, but how you listen—considering factors like time of day, activity type, and listening duration to create perfectly timed musical moments. The social features allow you to collaborate on playlists with friends, see what concerts are happening nearby, and share your musical journey through beautifully designed story cards. TuneBox Premium removes all interruptions with completely ad-free listening, unlimited skips, and exclusive access to artist interviews, behind-the-scenes content, and early ticket sales for major events and intimate performances alike.",
+    "size": 92.3,
+    "reviews": 15890,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 710 },
+      { "name": "3 star", "count": 1330 },
+      { "name": "4 star", "count": 4780 },
+      { "name": "5 star", "count": 7450 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tt4BLrrnwKwQp99b7iN9a9BHG7vK8nqisw&s",
+    "title": "PicPro",
+    "companyName": "VisualCraft",
+    "description": "PicPro represents the convergence of professional photography tools and artificial intelligence, creating an editing platform that empowers both beginners and seasoned photographers to achieve stunning results with unprecedented ease. Our AI-powered background removal technology uses advanced semantic segmentation to distinguish between subjects and backgrounds with pixel-level precision, even handling complex elements like hair, transparent objects, and fine details that traditionally challenge automated tools. The color correction suite includes intelligent white balance adjustment, selective color editing, and advanced curve tools that provide granular control over every aspect of your image's tonal range. The lighting adjustment system can simulate natural lighting conditions, enhance shadows without introducing noise, and recover details from overexposed highlights using computational photography techniques. With over 500 professionally designed filters categorized by mood, genre, and aesthetic style, plus the ability to create and share your own custom presets, PicPro offers endless creative possibilities. The healing and clone tools leverage content-aware fill technology that seamlessly removes unwanted objects while preserving the natural texture and patterns of your images. Batch processing capabilities allow you to apply consistent edits across hundreds of photos simultaneously, maintaining your unique style while saving countless hours of manual work. The platform supports RAW file editing, layer-based compositing, and non-destructive editing workflows that ensure your original images remain pristine throughout the creative process.",
+    "size": 87.9,
+    "reviews": 10450,
+    "ratingAvg": 4.3,
+    "downloads": 1870000,
+    "ratings": [
+      { "name": "1 star", "count": 820 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 1480 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 3610 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://play-lh.googleusercontent.com/RgDI7Nsqh80W38udplOXxop-VTNI8wDx7bbrmXIVD4EdzrwgjSVDc9O9Ueru2vmxeFA=w240-h480-rw",
+    "title": "LearnMate",
+    "companyName": "EduTech Global",
+    "description": "LearnMate transforms mobile education into a personalized, engaging journey of skill development and knowledge acquisition across virtually every domain of human endeavor. Our platform hosts over 50,000 interactive courses developed by industry experts, university professors, and leading professionals from companies like Google, Apple, and NASA. The adaptive learning engine continuously assesses your comprehension patterns, learning speed, and knowledge gaps to dynamically adjust course difficulty, recommend supplementary materials, and optimize your educational pathway for maximum retention and practical application. Each course features interactive coding environments, virtual labs, and project-based assessments that ensure you're not just memorizing concepts but actually building usable skills. The certification program includes verifiable digital credentials that can be shared on LinkedIn and other professional networks, with some courses offering college credit recommendations and industry recognition. Our personalized learning paths incorporate spaced repetition algorithms, milestone projects, and peer review systems that create a comprehensive educational ecosystem. The community features connect you with study groups, mentor programs, and industry professionals who can provide guidance, feedback, and career advice. Advanced analytics track your progress across multiple dimensions including knowledge acquisition, skill development, and learning efficiency, providing actionable insights to optimize your educational journey and achieve your professional objectives faster and more effectively than traditional learning methods.",
+    "size": 101.5,
+    "reviews": 6540,
+    "ratingAvg": 4.8,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1720 },
+      { "name": "5 star", "count": 3920 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://play-lh.googleusercontent.com/D6tnkyz4g9S_nlcG19XGvdKIvDuzfxNmMwMiGyXeO7RXqBwLOAA25AmQzhoaRCf_7xhC=w240-h480-rw",
+    "title": "TaskFlow",
+    "companyName": "ProSync Solutions",
+    "description": "TaskFlow reimagines productivity management by combining intuitive visual organization with powerful automation capabilities that streamline both individual workflow and team collaboration. The platform's drag-and-drop interface supports multiple project visualization methods including Kanban boards, Gantt charts, calendar views, and list formats that can be switched seamlessly based on your current context and preferences. Smart reminders employ intelligent timing algorithms that consider your work patterns, meeting schedules, and even time zone differences for distributed teams to deliver notifications when they're most likely to be effective. The real-time syncing architecture ensures that every team member sees updates instantaneously while maintaining robust conflict resolution that preserves data integrity during simultaneous edits. Our integration ecosystem connects with over 1,000 popular tools including Slack, Google Calendar, Notion, GitHub, Salesforce, and Microsoft Teams, creating a unified command center for all your work activities. The automation builder allows you to create custom workflows without coding—automating repetitive tasks, approval processes, and status updates based on triggers and conditions you define. Advanced reporting provides insights into team productivity, project bottlenecks, and resource allocation with customizable dashboards that highlight the metrics that matter most to your organization. Security features include enterprise-grade encryption, compliance with global data protection standards, and sophisticated permission systems that ensure sensitive information remains accessible only to authorized personnel while maintaining transparency where appropriate.",
+    "size": 58.6,
+    "reviews": 4870,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 670 },
+      { "name": "4 star", "count": 1620 },
+      { "name": "5 star", "count": 1990 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDd445VaBH20iTUU-gOPqHC9dC6m6_J_lvw&s",
+    "title": "Travelio",
+    "companyName": "GlobeConnect",
+    "description": "Travelio transforms travel planning from a stressful chore into an inspiring, seamless experience through artificial intelligence, comprehensive data integration, and deep local knowledge. Our AI-based itinerary generator considers your travel preferences, budget constraints, time availability, and even weather patterns to create perfectly optimized daily schedules that balance iconic attractions with hidden gems. The booking integration system compares prices across hundreds of airlines, hotel chains, and local accommodation providers in real-time, alerting you to price drops and special offers while ensuring you get the best value without compromising on quality. Live weather updates incorporate hyperlocal forecasting that provides street-level precipitation predictions, UV index alerts, and packing recommendations specific to your destination's climate conditions. The discovery engine surfaces unique experiences, local culinary specialties, and cultural events that most tourists miss, drawing from a database of over 5 million points of interest and continuously updated by our global community of travel experts. The social features allow you to share your journey through interactive travel journals, collaborate on group itineraries, and get real-time recommendations from friends and fellow travelers. Offline functionality includes downloadable maps with turn-by-turn navigation, phrasebooks for 75 languages, and emergency information that remains accessible even in remote locations without cellular service. The platform also provides comprehensive travel safety alerts, visa requirement information, and local customs guidance to ensure you're prepared and respectful wherever your adventures take you.",
+    "size": 75.3,
+    "reviews": 7230,
+    "ratingAvg": 4.2,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 640 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2160 },
+      { "name": "5 star", "count": 2510 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://media.licdn.com/dms/image/v2/D560BAQHdQpJ_akT1ug/company-logo_200_200/company-logo_200_200/0/1680703746827?e=2147483647&v=beta&t=5L5FBYv9vwHxVpTtT91OW_C_5m5GvK1MlRuwuKpy7Nk",
+    "title": "BudgetWise",
+    "companyName": "FinanceFlow Technologies",
+    "description": "BudgetWise revolutionizes personal finance management through sophisticated AI-driven insights, comprehensive spending analysis, and proactive financial health monitoring that empowers users to achieve their financial goals with confidence and precision. Our platform automatically categorizes transactions across all your linked accounts with 98.7% accuracy, learning from your corrections to continuously improve its understanding of your unique spending patterns. The goal-tracking system helps you save for everything from emergency funds and vacation plans to major life events like home purchases and retirement, with progress visualizations that keep you motivated and accountable. Investment tracking integrates with brokerage accounts, retirement funds, and cryptocurrency wallets to provide a holistic view of your net worth and portfolio performance with sophisticated analytics on risk exposure and diversification. The bill management feature not only reminds you of upcoming payments but also analyzes your recurring expenses to identify potential savings opportunities and negotiate better rates on your behalf. Cash flow forecasting uses historical data and pattern recognition to predict your financial position months in advance, alerting you to potential shortfalls or surplus opportunities. Security is paramount with bank-level 256-bit encryption, biometric authentication, and regular security audits ensuring your sensitive financial data remains protected. The educational resources include personalized financial literacy courses, investment strategy guides, and debt management plans tailored to your specific financial situation and objectives.",
+    "size": 52.7,
+    "reviews": 8920,
+    "ratingAvg": 4.7,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 2850 },
+      { "name": "5 star", "count": 5130 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://apps.odoo.com/web/image/loempia.module/154513/icon_image?unique=4f19f24",
+    "title": "MediTrack",
+    "companyName": "HealthGuard Systems",
+    "description": "MediTrack creates a comprehensive digital health ecosystem that seamlessly connects patients, healthcare providers, and medical data to deliver proactive health management and informed medical decision-making. The platform's medication management system includes intelligent reminders that consider your daily routine, refill alerts that coordinate with your pharmacy, and interaction checking that flags potential conflicts between prescribed medications, supplements, and over-the-counter drugs. Symptom tracking employs clinically validated assessment tools that help you monitor health conditions, identify patterns, and prepare accurate information for medical consultations. The appointment management feature coordinates scheduling across multiple healthcare providers, sends preparation reminders with specific instructions for tests or procedures, and provides seamless telehealth integration for virtual consultations. Health data aggregation pulls information from connected devices, electronic health records, and manual entries to create a unified health profile that travels with you across care settings. Emergency features include instant access to critical medical information, emergency contact notifications, and nearby healthcare facility locators with wait times and service availability. The provider portal allows authorized healthcare professionals to view your shared health data, communicate securely, and coordinate care plans while maintaining strict HIPAA compliance and patient privacy controls. Personalized health insights draw from the latest medical research and your individual health data to provide evidence-based recommendations for lifestyle adjustments, preventive screenings, and wellness strategies.",
+    "size": 73.4,
+    "reviews": 5670,
+    "ratingAvg": 4.4,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 1980 },
+      { "name": "5 star", "count": 2420 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqNERS0Jj5AwyzNOJu6PwWURID0y3EBIS2A&s",
+    "title": "HomeSecure",
+    "companyName": "SafeHome Technologies",
+    "description": "HomeSecure delivers a comprehensive smart home security and automation platform that transforms your living space into an intelligent, responsive environment that anticipates your needs while providing robust protection. The unified dashboard integrates with over 1,500 compatible devices including security cameras, smart locks, environmental sensors, lighting systems, and appliances from all major manufacturers. Advanced motion detection employs AI-powered person recognition that distinguishes between family members, pets, and unknown individuals while reducing false alarms from environmental factors. The automation engine allows you to create complex routines based on time, location, device status, or environmental conditions—like automatically adjusting thermostat settings when you leave home or turning on lights when motion is detected after dark. Environmental monitoring tracks air quality, temperature, humidity, and water leaks with automatic shutoff capabilities and emergency service notifications if critical thresholds are breached. The emergency response system includes one-touch alerts to designated contacts, professional monitoring services, and integration with local emergency services where available. Energy management features identify consumption patterns, suggest efficiency improvements, and automate energy-saving behaviors without compromising comfort or convenience. Remote access provides complete control from anywhere in the world with end-to-end encryption ensuring that your smart home data remains private and secure from unauthorized access.",
+    "size": 88.9,
+    "reviews": 4230,
+    "ratingAvg": 4.5,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1520 },
+      { "name": "5 star", "count": 1810 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.squarespace-cdn.com/content/v1/609ed998794df359475da809/7df8e429-335b-418e-bd31-ba6ca55848b9/LanguageMaster_Logo_091120.png",
+    "title": "LanguageMaster",
+    "companyName": "LinguaWorld International",
+    "description": "LanguageMaster employs cutting-edge language acquisition technology combined with cultural immersion techniques to make fluency in new languages an achievable reality for learners of all backgrounds and aptitudes. Our comprehensive curriculum covers 40 languages with content developed by native speakers and linguistic experts, incorporating speech recognition that provides instant feedback on pronunciation accuracy, intonation patterns, and rhythm. The adaptive learning algorithm continuously assesses your progress across reading, writing, listening, and speaking skills to personalize lesson difficulty, review frequency, and content focus areas. Interactive conversations with AI characters simulate real-world scenarios from restaurant ordering and business meetings to travel emergencies and social gatherings, building practical communication confidence. Cultural lessons provide essential context about customs, etiquette, and social norms that transform language knowledge into genuine cultural competence. The vocabulary acquisition system uses spaced repetition algorithms optimized for long-term retention while connecting new words to visual imagery, example sentences, and personal associations. Offline mode ensures continuous learning during travel or commutes with downloadable lessons, phrasebooks, and pronunciation guides. Progress analytics track your fluency development across multiple dimensions with comparative benchmarks against native speakers and personalized recommendations for accelerating your language mastery journey.",
+    "size": 104.2,
+    "reviews": 7340,
+    "ratingAvg": 4.8,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 2280 },
+      { "name": "5 star", "count": 4260 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://static.vecteezy.com/system/resources/previews/020/784/802/non_2x/recipe-book-icon-vector.jpg",
+    "title": "RecipeGenius",
+    "companyName": "Culinary Innovation Labs",
+    "description": "RecipeGenius transforms home cooking through artificial intelligence, nutritional science, and smart kitchen integration that makes delicious, healthy meals accessible to cooks of all skill levels. Our AI recipe generator creates personalized meal plans based on your dietary preferences, nutritional goals, ingredient availability, and time constraints—even suggesting substitutions for missing items. The smart pantry tracker uses image recognition to inventory your available ingredients and suggests recipes that minimize food waste while maximizing nutritional variety. Step-by-step cooking guidance includes voice-controlled timers, technique videos from professional chefs, and adaptive instructions that adjust based on your equipment and experience level. Nutritional analysis provides detailed breakdowns of calories, macronutrients, vitamins, and minerals for every recipe with options to adjust portions or modify ingredients to meet specific health requirements. The meal planning module generates coordinated grocery lists organized by store section, accounts for seasonal availability and local pricing, and can schedule deliveries through integrated services. Kitchen equipment integration works with smart scales, thermometers, and appliances to provide precise measurements and automated temperature control for perfect results. The social cooking features allow you to share creations, join cooking challenges, and participate in live virtual cooking classes with chefs from around the world while building a personalized digital cookbook of your favorite recipes and culinary creations.",
+    "size": 67.8,
+    "reviews": 6120,
+    "ratingAvg": 4.6,
+    "downloads": 830000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1980 },
+      { "name": "5 star", "count": 3110 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://play-lh.googleusercontent.com/qo4rQGDCYkmKTavOQZHDdq8fuv7G7e8DTD96uVSW2IB8qYw9QT_eAkyigHkh_SKZDz2a",
+    "title": "MindSpace",
+    "companyName": "Tranquility Digital",
+    "description": "MindSpace creates a personalized mental wellness sanctuary through evidence-based meditation practices, psychological techniques, and biofeedback integration that promotes emotional balance and cognitive performance. Our extensive library contains over 1,000 guided sessions targeting specific needs including stress reduction, focus enhancement, sleep improvement, emotional regulation, and relationship mindfulness—all developed in collaboration with clinical psychologists and neuroscience researchers. The personalized journey creator adapts to your emotional patterns, stress triggers, and lifestyle constraints to suggest practices that address your current mental state while building long-term resilience. Sleep support content includes scientifically designed soundscapes, bedtime stories for adults, breathing exercises that activate the parasympathetic nervous system, and sleep tracking integration that correlates meditation practices with sleep quality metrics. Mood tracking employs clinically validated assessment tools that help identify patterns, triggers, and progress while providing insights into the relationship between your activities, thoughts, and emotional states. Biofeedback integration works with compatible wearables to measure heart rate variability, skin conductance, and breathing patterns—using this physiological data to customize meditation length, technique selection, and progress measurement. The community features include group meditation sessions, expert-led workshops, and peer support circles that create accountability and connection while maintaining complete privacy control over your personal journey and shared information.",
+    "size": 59.3,
+    "reviews": 8450,
+    "ratingAvg": 4.9,
+    "downloads": 960000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 2450 },
+      { "name": "5 star", "count": 5390 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://play-lh.googleusercontent.com/uaW9fMeOb-2sUqDKvCPCPw5dAKGnbbgLjEBUHsmtACPZdvHI0iD3MFJoUde-8Pf5kkk=w240-h480-rw",
+    "title": "CodeCraft",
+    "companyName": "DevInnovation Studios",
+    "description": "CodeCraft brings professional-grade development tools to mobile devices with a comprehensive integrated development environment that supports the complete software development lifecycle from concept to deployment. The platform supports over 30 programming languages with advanced syntax highlighting, intelligent code completion, error detection, and refactoring tools that accelerate development while maintaining code quality. The integrated terminal provides full shell access with support for package managers, version control operations, and build tools—enabling complete project management without switching between applications. Git integration offers visual branching, merging, conflict resolution, and collaboration features that streamline team development workflows while maintaining code integrity. The debugging suite includes breakpoint management, variable inspection, step-through execution, and performance profiling tools that help identify and resolve issues efficiently. Cloud synchronization ensures your projects, environments, and preferences remain consistent across devices with automatic backup and version history that protects against data loss. Extensions and themes allow complete customization of the development environment with access to a marketplace of community-developed tools, snippets, and integrations. Collaboration features enable real-time pair programming, code review sessions, and project sharing that makes distributed team development seamless and productive regardless of location or time zone constraints.",
+    "size": 112.7,
+    "reviews": 3890,
+    "ratingAvg": 4.3,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 1320 },
+      { "name": "5 star", "count": 1430 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://play-lh.googleusercontent.com/4CTDFqtcESrQDI59iUJjAxSeWypQTL4TjgfA0K7kD8oYYDcm-H3V_NPsFmpLDfMJFJYF",
+    "title": "PlantParent",
+    "companyName": "GreenThumb Technologies",
+    "description": "PlantParent serves as your comprehensive digital gardening companion with plant identification, care guidance, and community features that help both novice and expert plant enthusiasts cultivate thriving indoor and outdoor gardens. Our advanced plant identification engine can recognize over 50,000 plant species from photos with detailed information about botanical characteristics, native habitats, and cultivation requirements. The care calendar generates personalized watering, fertilizing, pruning, and repotting schedules based on your specific plants, local climate conditions, and indoor environment factors. The problem diagnosis tool uses image recognition and symptom analysis to identify pests, diseases, nutrient deficiencies, and environmental stress—providing treatment recommendations with product suggestions and application guidance. The plant library includes comprehensive databases with searchable filters for light requirements, water needs, toxicity levels, and growth characteristics to help you select perfect plants for your space and lifestyle. Community features connect you with local plant enthusiasts, expert gardeners, and horticulturalists for advice, plant swaps, and troubleshooting assistance through discussion forums and direct messaging. The wishlist function helps you plan future acquisitions with compatibility checking for your available space, lighting conditions, and care commitment level. Seasonal guides provide timely advice for plant maintenance throughout the year while push notifications remind you of critical care tasks to ensure your plants remain healthy and vibrant through changing seasons and growth stages.",
+    "size": 46.5,
+    "reviews": 5230,
+    "ratingAvg": 4.7,
+    "downloads": 710000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 1780 },
+      { "name": "5 star", "count": 2740 }
+    ]
+  },
+    {
+    "id": 17,
+    "image": "https://play-lh.googleusercontent.com/Tl0LAIG5soFTSjPVcCyvtKUqyCRuR10LoU0TGjyFtNNrbalnSoKDL-UcHcw4ci2s_4el=w240-h480-rw",
+    "title": "WeatherSense",
+    "companyName": "Atmospheric Analytics",
+    "description": "WeatherSense delivers hyper-localized, precision weather forecasting through advanced meteorological modeling and real-time data integration that keeps you informed and prepared for any atmospheric conditions. Our multi-source forecasting engine aggregates data from government satellites, Doppler radar networks, personal weather stations, and atmospheric sensors to create predictions with unprecedented accuracy down to the street level. The interactive radar display provides real-time precipitation tracking, storm cell movement analysis, and severe weather alerts with customizable layers for temperature gradients, wind patterns, and atmospheric pressure systems. Hyper-local forecasts offer minute-by-minute precipitation predictions for the next two hours alongside detailed hourly projections extending 48 hours and comprehensive 14-day outlooks that help with long-term planning. Specialized monitoring features include UV index tracking with skin protection recommendations, pollen count alerts for allergy sufferers, air quality indexes with health advisories, and marine weather conditions for boaters and beachgoers. Customizable notification systems alert you to severe weather warnings, precipitation start times, temperature drops, and special weather statements based on your location and preferences. The beautiful, information-rich interface presents complex meteorological data through intuitive visualizations, animated maps, and easy-to-understand metrics suitable for both casual users and weather enthusiasts who demand the most detailed atmospheric information available.",
+    "size": 71.3,
+    "reviews": 8920,
+    "ratingAvg": 4.4,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 4010 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://play-lh.googleusercontent.com/q02CdZgdQmYZxtiQkqPGp5eDqVmZg0aD4ob9tpwIQTHXZXa8V8MpgxDH2DALIsXPAw",
+    "title": "InvestWise",
+    "companyName": "CapitalGrowth Partners",
+    "description": "InvestWise democratizes sophisticated investment management through AI-driven portfolio analysis, real-time market intelligence, and educational resources that empower both novice and experienced investors to make informed financial decisions. Our portfolio tracking system integrates with all major brokerage accounts, retirement funds, and cryptocurrency exchanges to provide a unified view of your entire investment landscape with automatic performance calculations, dividend tracking, and tax lot management. The AI-powered analytics engine assesses your portfolio's risk exposure, diversification quality, and performance attribution while comparing your results against relevant benchmarks and suggesting optimization opportunities. Real-time market data streams deliver comprehensive coverage of stocks, ETFs, mutual funds, bonds, and digital assets with advanced charting tools, technical indicators, and fundamental analysis metrics for thorough investment research. The educational platform features structured learning paths covering investment strategies, market analysis techniques, and risk management principles with interactive simulations that allow you to practice trading without financial risk. Social features enable you to follow successful investors, join investment communities, and participate in discussion forums while maintaining complete privacy over your actual portfolio holdings. Tax optimization tools help you identify tax-loss harvesting opportunities, estimate capital gains liabilities, and plan strategic transactions to minimize your tax burden. Security measures include bank-level encryption, multi-factor authentication, and regular third-party security audits to ensure your sensitive financial information remains protected against unauthorized access while providing seamless, intuitive access to your investment ecosystem.",
+    "size": 83.6,
+    "reviews": 5670,
+    "ratingAvg": 4.5,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1980 },
+      { "name": "5 star", "count": 2670 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://play-lh.googleusercontent.com/dar3zPlTbJYfHtH0hG4WOOK28ujJTj5kz51SwDuZc-HrmSgjZyavEDY_k4jmiJ9QwFo",
+    "title": "SleepCycle+",
+    "companyName": "Restful Sciences",
+    "description": "SleepCycle+ revolutionizes sleep optimization through advanced biometric monitoring, intelligent alarm technology, and personalized sleep improvement recommendations based on cutting-edge sleep science research. Our sophisticated sleep tracking system uses motion analysis, sound monitoring, and heart rate variability measurements to identify your sleep stages throughout the night with clinical-grade accuracy, providing detailed insights into your light sleep, deep sleep, and REM cycles. The smart wake-up technology monitors your sleep patterns during a customizable 30-minute window before your desired wake time and gently rouses you during your lightest sleep phase, ensuring you wake up feeling refreshed and energized rather than groggy and disoriented. Comprehensive sleep analysis generates detailed reports on your sleep duration, quality metrics, consistency patterns, and factors affecting your rest—correlating sleep data with daily activities, caffeine intake, exercise timing, and environmental conditions. The sleep score system provides an easily understandable measure of your sleep quality while tracking long-term trends and identifying improvement opportunities through personalized recommendations. Integration with smart home devices allows automatic adjustment of lighting, temperature, and sound environments to create optimal sleeping conditions based on your sleep stage detection. The extensive sound library offers scientifically designed sleep sounds, binaural beats, guided relaxations, and bedtime stories that help you fall asleep faster and maintain deeper sleep throughout the night while the snore detection and gentle intervention features help reduce sleep disruptions for you and your partner.",
+    "size": 65.8,
+    "reviews": 7230,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 2450 },
+      { "name": "5 star", "count": 3840 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyZLTmTOZK12vDO9dxjIntJS6bk3YJE5tcw&s",
+    "title": "StudyFocus",
+    "companyName": "Academic Excellence Labs",
+    "description": "StudyFocus transforms academic productivity through intelligent study session management, distraction blocking technology, and learning optimization tools that help students achieve their educational goals with maximum efficiency. Our focus timer employs the Pomodoro technique with adaptive session lengths that adjust based on your concentration patterns, subject difficulty, and time constraints—providing structured breaks that maintain mental freshness while preventing burnout. The distraction blocker identifies and temporarily restricts access to distracting websites, applications, and notifications during study sessions while allowing essential communications and educational resources to remain accessible. The study planner creates optimized schedules that balance multiple subjects, assignment deadlines, and exam preparation while accounting for your personal energy patterns, learning preferences, and existing commitments. The note-taking system integrates with your study sessions, automatically organizing materials by subject, topic, and date while providing templates for different learning scenarios including lecture notes, textbook summaries, and research projects. Progress tracking monitors your study consistency, topic mastery, and performance trends across subjects—identifying knowledge gaps and suggesting review sessions at optimal intervals for long-term retention. The resource library provides access to millions of flashcards, practice questions, and study guides created by both educators and students worldwide, with content covering virtually every academic subject from elementary school through graduate-level studies. Collaborative features enable group study sessions, peer accountability partnerships, and knowledge sharing while the achievement system rewards consistent study habits, milestone accomplishments, and academic improvements with badges, certificates, and progress visualizations that maintain motivation throughout the learning journey.",
+    "size": 58.2,
+    "reviews": 6340,
+    "ratingAvg": 4.7,
+    "downloads": 820000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 2120 },
+      { "name": "5 star", "count": 3430 }
+    ]
+  }
+]
