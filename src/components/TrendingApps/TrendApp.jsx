@@ -2,7 +2,7 @@ import React from "react";
 import downIcon from "../../assets/icon-downloads.png"
 import ratingIcon from "../../assets/icon-ratings.png"
 const TrendApp = ({apps}) => {
-    console.log(apps)
+    // console.log(apps)
     const {title,image,downloads,ratingAvg} = apps
   return (
     <div>
