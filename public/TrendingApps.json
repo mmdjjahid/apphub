@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "https://play-lh.googleusercontent.com/_pZJxiFdWvzErmPqdDSK4_sEssd_tW2y7iias3NcS4VfDXF28Jd1AqrUZnNMGtm48w",
+    "title": "Chatify",
+    "companyName": "SkyTech Labs",
+    "description": "Chatify is a real-time messaging app designed for fast, secure, and fun conversations. With end-to-end encryption, group chats, media sharing, and a sleek dark mode, Chatify ensures you stay connected without compromising privacy. The app also includes cloud sync so you can continue your chats across multiple devices seamlessly.",
+    "size": 45.2,
+    "reviews": 5234,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 1470 },
+      { "name": "5 star", "count": 2674 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://play-lh.googleusercontent.com/blZS6cfN9O64_U1J_oJJoabDnrdaMCMWGmgCmQ89Ef_5U29QrRjCQnjxsBIUmiMGcA=w240-h480-rw",
+    "title": "FitPulse",
+    "companyName": "WellnessHub",
+    "description": "FitPulse helps you track your workouts, monitor your calories, and stay motivated with daily goals. It integrates seamlessly with wearable devices to give you live heart rate and step data. The app offers guided workout videos, fitness plans for all levels, and a smart reminder system to keep you consistent on your fitness journey.",
+    "size": 68.5,
+    "reviews": 8190,
+    "ratingAvg": 4.4,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4170 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://play-lh.googleusercontent.com/HyoOOgrqj96GEbf4bo0EiuNyKAlDGG7prju2pgxvYI7OwtAdeIknMy9PJ1JymK-XmzQ=w240-h480-rw",
+    "title": "SnapNote",
+    "companyName": "ByteSmith",
+    "description": "SnapNote lets you capture, organize, and search handwritten notes instantly using OCR technology. Take a photo of your notes and turn them into editable digital text in seconds. With folders, tagging, and quick search features, it’s perfect for students, professionals, and anyone who loves jotting ideas on paper but wants digital convenience.",
+    "size": 39.8,
+    "reviews": 3412,
+    "ratingAvg": 4.7,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1642 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://play-lh.googleusercontent.com/Q489WjobyS5tWlLDhIApost9qINmfxq8Va-MvGgSLNXb2cHNiQyoG3-0yyjqRtHqAkM",
+    "title": "TuneBox",
+    "companyName": "NovaSound Studios",
+    "description": "TuneBox is your go-to music streaming app with millions of tracks, personalized playlists, and high-quality audio. You can download songs for offline listening, explore trending artists, and enjoy ad-free playback with TuneBox Premium. The app’s AI-curated recommendations learn your taste and make discovering new music effortless.",
+    "size": 92.3,
+    "reviews": 15890,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 710 },
+      { "name": "3 star", "count": 1330 },
+      { "name": "4 star", "count": 4780 },
+      { "name": "5 star", "count": 7450 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tt4BLrrnwKwQp99b7iN9a9BHG7vK8nqisw&s",
+    "title": "PicPro",
+    "companyName": "VisualCraft",
+    "description": "PicPro is an advanced photo editor built for creators who want professional-grade results on the go. It offers AI-based background removal, color correction, lighting adjustments, and over 500 filters. Whether you’re editing selfies or landscapes, PicPro gives you powerful yet easy-to-use tools to enhance your photos instantly.",
+    "size": 87.9,
+    "reviews": 10450,
+    "ratingAvg": 4.3,
+    "downloads": 1870000,
+    "ratings": [
+      { "name": "1 star", "count": 820 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 1480 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 3610 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://play-lh.googleusercontent.com/RgDI7Nsqh80W38udplOXxop-VTNI8wDx7bbrmXIVD4EdzrwgjSVDc9O9Ueru2vmxeFA=w240-h480-rw",
+    "title": "LearnMate",
+    "companyName": "EduTech Global",
+    "description": "LearnMate brings a new way to study and upskill with thousands of interactive courses across programming, design, and business. The app tracks your learning progress, offers quizzes, and provides certificates upon completion. Personalized learning paths help you grow in your chosen field with guidance from expert instructors.",
+    "size": 101.5,
+    "reviews": 6540,
+    "ratingAvg": 4.8,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1720 },
+      { "name": "5 star", "count": 3920 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://play-lh.googleusercontent.com/D6tnkyz4g9S_nlcG19XGvdKIvDuzfxNmMwMiGyXeO7RXqBwLOAA25AmQzhoaRCf_7xhC=w240-h480-rw",
+    "title": "TaskFlow",
+    "companyName": "ProSync Solutions",
+    "description": "TaskFlow is a productivity tool that helps teams and individuals manage their tasks effortlessly. With drag-and-drop boards, smart reminders, and real-time syncing, TaskFlow keeps your work organized. It integrates with Slack, Google Calendar, and Notion, making collaboration smoother than ever.",
+    "size": 58.6,
+    "reviews": 4870,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 670 },
+      { "name": "4 star", "count": 1620 },
+      { "name": "5 star", "count": 1990 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDd445VaBH20iTUU-gOPqHC9dC6m6_J_lvw&s",
+    "title": "Travelio",
+    "companyName": "GlobeConnect",
+    "description": "Travelio makes trip planning effortless with AI-based itinerary generation, hotel and flight booking integration, and live weather updates. Discover hidden destinations, explore local cuisines, and share your travel experiences with friends. The app also supports offline maps for easy navigation when you're abroad.",
+    "size": 75.3,
+    "reviews": 7230,
+    "ratingAvg": 4.2,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 640 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2160 },
+      { "name": "5 star", "count": 2510 }
+    ]
+  }
+]
