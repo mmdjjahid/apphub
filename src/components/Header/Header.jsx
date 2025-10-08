@@ -56,7 +56,7 @@ const Header = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2]  text-white"><FaGithub /> Contribute</a>
+          <a href="https://github.com/mmdjjahid" className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2]  text-white"><FaGithub /> Contribute</a>
         </div>
       </div>
     </div>
