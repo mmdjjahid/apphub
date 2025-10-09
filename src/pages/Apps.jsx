@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { Suspense, useState } from "react";
 import { useLoaderData } from "react-router";
 import TrendApp from "../components/TrendingApps/TrendApp";
 import Search from "../components/Search/Search";
@@ -44,20 +44,23 @@ const Apps = () => {
           <Search handleSearch={handleSearch}></Search>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mx-3 md:mx-20">
-          {found ? (
-            appData.length === 0 ? (
-              allApps.map((apps, index) => (
-                <TrendApp key={index} apps={apps}></TrendApp>
-              ))
+          <Suspense
+            fallback={<span className="loading loading-dots loading-xl"></span>}
+          >
+            {found ? (
+              <Suspense fallback="Loading...">
+                {appData.length === 0
+                  ? allApps.map((apps, index) => (
+                      <TrendApp key={index} apps={apps}></TrendApp>
+                    ))
+                  : appData.map((apps, index) => (
+                      <TrendApp key={index} apps={apps}></TrendApp>
+                    ))}
+              </Suspense>
             ) : (
-              appData.map((apps, index) => (
-                <TrendApp key={index} apps={apps}></TrendApp>
-              ))
-            )
-          ) : (
-            <DataNotFund></DataNotFund>
-            
-          )}
+              <DataNotFund></DataNotFund>
+            )}
+          </Suspense>
         </div>
       </div>
     </div>
