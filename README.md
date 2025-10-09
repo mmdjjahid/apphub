@@ -1,4 +1,4 @@
-# AppHub Demo (rad-douhua-702c12.netlify.app)
+# AppHub Demo (https://rad-douhua-702c12.netlify.app/)
 
 ## Description
 A responsive application that showcases apps, allows searching, viewing app details, and installing/uninstalling apps saved in localStorage.
